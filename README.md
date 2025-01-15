@@ -35,13 +35,14 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 -------
 
 
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Itzpatron/PATRON-MD/fork)
-
-## `Pair number For Session, Click menu`
-[![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://bankai-ivm0.onrender.com)
-
+## BANKAI_MD Deployment Methods
+---
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Awesome-DC/BANKAI_MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://bankai-renew.onrender.com) 
+ OR BY [`SCANNING QR CODE`](https://bankai-renew.onrender.com/wasiqr)** 
+3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Awesome-DC/BANKAI_MD)**
+8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0Z) for more**
+9. **All Tutorials Are `COMING SOON`**
 
 ## ` BUILDPACKS`
 
