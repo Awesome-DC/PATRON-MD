@@ -77,3 +77,36 @@ git clone https://github.com/Itzpatron/PATRON-MD
 cd PATRON-MD
 npm start
 ```
+
+
+BANKAI_MD is a easy to use WhatsApp bot. 
+
+      BANKAI_MD whatsapp bot is an easy to use whatsapp Assistant.   |  byakuya whatsapp bot
+# 
+# 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+* [🧑‍💻 Follow BANKAI_MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
+
+* [🧑‍💻 Join BANKAI_MD 🧑‍💻](https://t.me/hacktivisthive)
+
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoHNAKazX)
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+      ⚠️ We are not responsible for any inconvenience caused by your mistakes!
+  
+## 
+
+- *BANKAI_MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use BANKAI_MD at your own risk by keeping this warning in mind.*
+  
+  #### ```TOTAL PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Awesome-DC/count.svg)
+
+
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Awesome-DC)
+<b>Version -> 1.0.0</b>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
