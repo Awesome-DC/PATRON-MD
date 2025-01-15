@@ -35,7 +35,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 -------
 
 
-## BANKAI_MD Deployment Methods
+## 𝗟𝗨𝗠𝗜𝗡 Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Awesome-DC/BANKAI_MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://bankai-renew.onrender.com) 
@@ -52,17 +52,6 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itzpatron/PATRON-MD/)
-
-### TUTORIAL VIA PANEL
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ygIOzvZS0z0?si=79yGQpgdIqa4Yt0U)
-
-### ☁️ DEPLOY ON RENDER
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FItzpatron-Li%2FPATRON-MD)
-
-------------------
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itzpatron1)
 
 # Install Manually 👇
 ## `Requirements`
