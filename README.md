@@ -34,22 +34,6 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 
 -------
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://www.youtube.com/@Itzpatron1"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Itzpatron1" /><br>
-<a href="https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q" /><br>
-<a href="https://t.me/patrontechhub"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP"><img src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/justt.patron?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
-</p>
-
-
-## ```My Channel```
-
-- [`Whatsapp Channel`](https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q)
-- [`Support GC`](https://chat.whatsapp.com/C6pWKvDfFRTAXScxTGFqvP)
-- [`Telegram Channel`](https://t.me/patrontechhub)
-
 
 # Setup For Deployment 👇
 
