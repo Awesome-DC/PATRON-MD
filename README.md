@@ -82,15 +82,6 @@ npm start
 BANKAI_MD is a easy to use WhatsApp bot. 
 
       BANKAI_MD whatsapp bot is an easy to use whatsapp Assistant.   |  byakuya whatsapp bot
-# 
-# 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-* [🧑‍💻 Follow BANKAI_MD Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z)
-
-* [🧑‍💻 Join BANKAI_MD 🧑‍💻](https://t.me/hacktivisthive)
-
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/Hk4jZg8HMoHNAKazX)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
