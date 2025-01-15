@@ -14,6 +14,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 ### WANT TO USE BOT HOSTING OR KATABUMP 0 COINS? DOWNLOAD THIS
  
 <a 1.  **FOR BOT HOSTING, [`CLICK HERE`](https://bot-hosting.net/)**
+
 <a 2.  **For KATABUMP, [`CLICK HERE`](https://katabump.com/en/)**
 
 ------
