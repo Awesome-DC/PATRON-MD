@@ -37,7 +37,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 
 ## 𝗟𝗨𝗠𝗜𝗡 Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Awesome-DC/BANKAI_MD/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Awesome-DC/LUMIN-MD.git) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://bankai-renew.onrender.com) 
  OR BY [`SCANNING QR CODE`](https://bankai-renew.onrender.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Awesome-DC/BANKAI_MD)**
@@ -96,8 +96,4 @@ apt install bash
 git clone https://github.com/Itzpatron/PATRON-MD
 cd PATRON-MD
 npm start
-```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
