@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-PATRON Multi Device is a automated whatsapp bot created by <a href="https://github.com/Itzpatron" target="_blank">Patron</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs And cheems v8</a>. Dont forget to give a star bro.
-</p>
+LUMIN MD IS A SIMPLIFIED WHATSAPP BOT TO HELP ASSISTING USER
 
 <p align="center">
 <a href="https://youtu.be/ygIOzvZS0z0?si=HBG2WzpWO-2cBBkJ"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
