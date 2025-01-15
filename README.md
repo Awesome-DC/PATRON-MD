@@ -1,4 +1,4 @@
-<h1 align="center">𝗟𝗨𝗠𝗜𝗡-𝗠𝗗 𝗕𝗢𝗧<br></h1>
+<h1 align="center">𝗟𝗨𝗠𝗜𝗡-𝗠𝗗<br></h1>
 <p align="center">
 <img src="https://i.imgur.com/QNvEMVB.jpeg" height="300" />
 </p>
