@@ -40,7 +40,7 @@ PATRON Multi Device is a automated whatsapp bot created by <a href="https://gith
 - FORK THE REPOSITORY [Here](https://github.com/Itzpatron/PATRON-MD/fork)
 
 ## `Pair number For Session, Click menu`
-[![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://patron-pair.onrender.com/)
+[![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://bankai-ivm0.onrender.com)
 
 
 ## ` BUILDPACKS`
