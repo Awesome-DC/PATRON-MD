@@ -6,9 +6,6 @@
 <p align="center">
 LUMIN MD IS A SIMPLIFIED WHATSAPP BOT TO HELP ASSISTING USER
 
-<p align="center">
-<a href="https://youtu.be/ygIOzvZS0z0?si=HBG2WzpWO-2cBBkJ"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
 
 ### WANT TO USE BOT HOSTING OR KATABUMP 0 COINS? DOWNLOAD THIS
  
