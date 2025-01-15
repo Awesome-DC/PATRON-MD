@@ -1,6 +1,6 @@
 <h1 align="center">𝗟𝗨𝗠𝗜𝗡-𝗠𝗗 𝗕𝗢𝗧<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/XnKn6H3.jpeg" height="300" />
+<img src="https://i.imgur.com/QNvEMVB.jpeg" height="300" />
 </p>
 
 <p align="center">
